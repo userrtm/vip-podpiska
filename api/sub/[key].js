@@ -1,0 +1,1 @@
+api/sub/[key].js
